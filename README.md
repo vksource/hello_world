@@ -1,2 +1,3 @@
 # hello_world
-trening html/css
+#trening html/css
+<!DOCKTYPE html>
